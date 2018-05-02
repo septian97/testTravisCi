@@ -1,14 +1,12 @@
 {
-    "name": "aikibo/stok-app", 
+    "name": "septian97/UTS-WEB-PROG-master", 
     "type": "project",
     "authors": [
         {
-            "name": "tamami",
-            "email": "tamami@gmail.com",
-            "role": "programmer"
-        }, {
-            "name": "ami"
-        }
+            "name": "septian",
+            "email": "septirizal97@gmail.com",
+            "role": "student"
+        } 
     ],
     "require": {
         "phpunit/phpunit": "^6.5"
